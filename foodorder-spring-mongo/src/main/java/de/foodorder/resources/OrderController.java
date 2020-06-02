@@ -16,7 +16,7 @@ import de.foodorder.repo.OrderRepo;
 
 
 @RestController
-public class BookController {
+public class OrderController {
 
 	@Autowired
 	private OrderRepo repository;
